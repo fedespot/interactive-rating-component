@@ -58,8 +58,9 @@ body{
 
 .rating__paragraph, .result__paragraph{
     color: var(--light-grey);
-    letter-spacing: -0.5px;
+    /* letter-spacing: -0.5px; */
     margin-bottom: 2em;
+    font-size: 0.8rem;
 }
 
 .rating__number-containter{
